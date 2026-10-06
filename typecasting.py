@@ -1,0 +1,13 @@
+x="123"
+y=7999
+d=[['a',10],['b',20]]
+print(int(x))
+print(float(x))
+print(complex(2,7))
+print(str(y))
+print(list(x))
+print(tuple(x))
+print(set(x))
+print(dict(d))
+print(ord('A'))
+print(chr(y))
